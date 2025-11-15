@@ -134,7 +134,7 @@ export default function Hero() {
           </span>
         </h1>
 
-        <p className="text-2xl md:text-3xl mb-8 text-foreground">Full-Stack Developer Va Mobilogrfman </p>
+        <p className="text-2xl md:text-3xl mb-8 text-foreground">Frontend Developer Va Mobilogrfman </p>
 
         <p className="text-lg text-muted-foreground mb-12 max-w-2xl mx-auto leading-relaxed">
           Men zamonaviy va interaktiv veb-saytlar va mobil ilovalarni yaratishga ixtisoslashgan tajribali dasturchiman. Mening maqsadim - foydalanuvchilar uchun ajoyib raqamli tajribalar yaratish.
